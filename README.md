@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sayali Barhate
+<h1> Hi, I’m Sayali Barhate </h1>
 - 👀 I’m interested in Databases such as MySql, PostgreSql, MongoDB and Neo4j.
 - 👩🏻‍💻 I know Java, PHP, Python and have a good knowledge of Data Structures and Algorithms.
 - 🌱 Currently pursuing Master's in Computer Science!
